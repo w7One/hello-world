@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Hello guys
+
+I'm w7One. I'm new to developement world and I'm learning now
